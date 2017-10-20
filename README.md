@@ -1,5 +1,5 @@
 # drug-calculator
-An application to keep track of daily medicines. Application will grow as I GROW. Probably would be for different platforms; but 
+An application to keep track of daily medicines. Will be available in the future for additional platforms; for now 
 mainly for smartphones. Functionalities include- <br />
 -Keep track of medicines <br />
 -daily dosage  <br />
